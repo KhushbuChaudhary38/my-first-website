@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 500px;
+    width: 801px;
+   box-shadow: 0.4px 0.4px 0.6px grey;
+    border-collapse: collapse;
+}
+
+.nav {
+    height: 50px;
+    width: 800px;
+    border: 1px solid rgb(243, 245, 243);
+    border-collapse: collapse;
+    display: flex;
+    text-align: center;
+}
+
+.LYF {
+    width: 50px;
+    height: 45px;
+    border: 1px solidrgb(243, 245, 243);
+;
+    padding: 2px;
+}
+
+.Driver {
+    width: 60px;
+    height: 45px;
+    border: 1px solid rgb(243, 245, 243);
+
+    padding: 2px;
+}
+
+.Earning {
+    width: 60px;
+    height: 45px;
+    padding: 2px;
+    border: 1px solid rgb(243, 245, 243);
+
+}
+
+.Cities {
+    width: 60px;
+    height: 45px;
+    padding: 2px;
+    border: 1px solid rgb(243, 245, 243);
+
+}
+
+.Help {
+    width: 60px;
+    height: 45px;
+    padding: 2px;
+    border: 1px solid rgb(243, 245, 243);
+
+}
+
+.blank {
+    width: 300px;
+    height: 45px;
+    padding: 2px;
+    border: 1px solid rgb(243, 245, 243);}
+
+.Rider {
+    width: 60px;
+    height: 45px;
+    padding: 2px;
+    border: 1px solid rgb(243, 245, 243);
+
+
+}
+
+.Busines {
+    width: 60px;
+    height: 45px;
+    padding: 2px;
+    border: 1px solid rgb(243, 245, 243);
+
+
+}
+
+.Login {
+    width: 60px;
+    height: 45px;
+    padding: 2px;
+    border: 1px solid rgb(243, 245, 243);
+
+
+}
+
+.signin {
+    width: 60px;
+    height: 45px;
+    padding: 2px;
+    border: 1px solid rgb(243, 245, 243);
+
+}
+
+.middle {
+    height: 400px;
+    width: 801px;
+
+    display: flex;
+}
+
+.image {
+    margin-top: 50px;
+    height: 348px;
+    width: 521px;
+}
+
+.img {
+    height: 348px;
+    width: 521px;
+    border: none;
+}
+
+.text {
+    margin-top: 50px;
+    height: 348px;
+    width: 280px;
+
+}
+
+h1 {
+    padding-left: 10px;
+    font-size: 50px;
+
+}
+
+input {
+    padding: 10px;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 6px;
+    margin-left: 10px;
+    width: 200px;
+    margin-top: 40px;
+}
+
+.para {
+    font-size: 12px;
+    margin-top: 19px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.btnbox {
+    width: 280px;
+    height: 50px;
+    display: flex;
+    margin-top: 15px;
+}
+
+button {
+    height: 30px;
+    width: 2000px;
+    border: 1px solid rgb(16, 105, 238);
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(16, 105, 238);
+    color: white;
+    margin-right: 30px;
+}
+
+.checkbx {
+    display: flex;
+    flex-direction: row;
+    margin-right: 5px;
+    height: 49px;
+    width: 130px;
+    margin-right: 10px;
+
+}
+
+.checkbox {
+    height: 10px;
+    width: 10px;
+    margin-top: 20px;
+    
+}
+.para2 {
+    font-size: 13px;
+    margin: 10px;
+}
