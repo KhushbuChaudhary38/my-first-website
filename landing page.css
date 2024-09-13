@@ -6,7 +6,7 @@
 .container {
     height: 500px;
     width: 801px;
-   box-shadow: 1px 1px 0.6px grey;
+   box-shadow: 1px 1px 0.6px rgb(243, 245, 243);
     border-collapse: collapse;
 }
 
